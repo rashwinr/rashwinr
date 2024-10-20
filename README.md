@@ -58,3 +58,4 @@ I'm a research scientist passionate about leveraging data science and deep learn
 * **LinkedIn:** [linkedin.com/in/ashwin-rajkumar/](linkedin.com/in/ashwin-rajkumar/) 
 * **(Consider adding links to other relevant platforms like Twitter or a personal website)**
 -->
+<img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" >
