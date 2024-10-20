@@ -54,9 +54,6 @@ I'm a research scientist passionate about leveraging data science and deep learn
 * **Tools:** Linux, MS Office Suite, MATLAB, SolidWorks, Eagle, DFMA, AutoCAD, Arduino, Propeller, Raspberry Pi
 * **Domains:** Image processing, computer vision, machine learning, deep learning, medical image analysis (CT, Ultrasound, MRI), AI explainability, embedded systems, robotics, data analysis, statistical analysis, data visualization
 
-## Connect with me
-* **LinkedIn:** [linkedin.com/in/ashwin-rajkumar/](linkedin.com/in/ashwin-rajkumar/) 
-* **(Consider adding links to other relevant platforms like Twitter or a personal website)**
 -->
 <a href="https://scholar.google.com/citations?user=FJXcZW0AAAAJ">
   <img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" width="128px" height="64px"/>
