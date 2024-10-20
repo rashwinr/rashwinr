@@ -14,21 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--
-I'm a research scientist passionate about leveraging data science and deep learning to advance healthcare systems. I hold a Ph.D. in Mechanical Engineering and currently workin on medical image analysis and AI explainability. Currently, I'm exploring the applications of AI in digital health and imaging at the Medical Image Group, Computational Data Sciences, Indian Institute of Science (IISc), Bangalore.
-
-## Projects
-* **Semantic Segmentation of Brain Tumor using Deep Learning:** [Link to project repo (if available)] - Developed deep learning models for accurate brain tumor segmentation in medical images.
-* **Explainable AI for Ultrasound Image Segmentation:** [Link to project repo (if available)] -  Implemented deep learning models for accurate biopsy needle segmentation in ultrasound images with a focus on model explainability.
-* **MONAI Tutorials for Clinicians:** [Link to tutorials (if available)] - Designed and delivered MONAI tutorials on image classification tailored for medical professionals.
-* **Technology Translation of Medical Devices:** [Link to publications or presentations (if available)] -  My Ph.D. dissertation focused on the translation of innovative medical devices from research to clinical practice.
-* **(Add other relevant projects from your CV or personal portfolio)**
+I'm a post-doctoral researcher passionate about leveraging data science and deep learning to advance healthcare systems. Currently, I'm exploring the applications of AI in digital health and imaging at the Medical Image Group, Computational Data Sciences, Indian Institute of Science (IISc), Bangalore. I hold a Ph.D. in Mechanical Engineering from New York University (NYU). 
 
 ## Publications & Patents
 * **Author of 2+ journal publications, 8 conference papers, and contributor to 3 patent applications.** 
-* **(Consider adding links to your Google Scholar profile or specific publications)**
 
+## Projects
+
+* ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Explainable AI for Ultrasound Image Segmentation:** [Link to project repo (if available)] -  Implemented deep learning models for accurate biopsy needle segmentation in ultrasound images with a focus on model explainability.
+* ![Awesome](https://img.shields.io/badge/Awesome-YES-brightgreen) ![AI](https://img.shields.io/badge/AI-Tutorials-blue) **[MONAI Tutorials for Clinicians](https://github.com/rashwinr/MONAI_tutorials): - Designed and delivered MONAI tutorials on image classification tailored for medical professionals.
+* ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Semantic Segmentation of Brain Tumor using Deep Learning:** [Link to project repo (if available)] - Developed deep learning models for accurate brain tumor segmentation in medical images.
+
+
+<!--
+* **Technology Translation of Medical Devices:** [Link to publications or presentations (if available)] -  My Ph.D. dissertation focused on the translation of innovative medical devices from research to clinical practice.
+* **(Add other relevant projects from your CV or personal portfolio)**
+* **(Consider adding links to your Google Scholar profile or specific publications)**
 ## Experience
 * **Research Scientist** at Indian Institute of Science (IISc), Bangalore
 * **Post-doctoral Researcher** at Indian Institute of Science (IISc), Bangalore
