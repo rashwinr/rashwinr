@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a post-doctoral researcher passionate about leveraging data science and deep learning to advance healthcare systems. Currently, I'm exploring the applications of AI in digital health and imaging at the Medical Image Group, [Computational Data Sciences](https://cds.iisc.ac.in/), Indian Institute of Science (IISc), Bangalore. I hold a Ph.D. in [Mechanical Engineering](http://mechatronics.engineering.nyu.edu/) from [New York University](https://engineering.nyu.edu/) (NYU). 
 
 ## Projects
-![Awesome](https://img.shields.io/badge/Awesome-YES-brightgreen) ![AI](https://img.shields.io/badge/AI-Tutorials-blue) **[MONAI Tutorials for Clinicians](https://github.com/rashwinr/MONAI_tutorials)**
+![AI](https://img.shields.io/badge/AI-Tutorials-blue) **[MONAI Tutorials for Clinicians](https://github.com/rashwinr/MONAI_tutorials)**
       
 - Designed and delivered MONAI tutorials on image classification tailored for medical professionals.
      
@@ -37,7 +37,7 @@ I'm a post-doctoral researcher passionate about leveraging data science and deep
 <!--
 ## Publications & Patents
 * **Author of 2+ journal publications, 8 conference papers, and contributor to 3 patent applications.** 
-
+![Awesome](https://img.shields.io/badge/Awesome-YES-brightgreen) 
 
 
 
