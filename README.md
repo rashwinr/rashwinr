@@ -19,7 +19,7 @@ I'm a post-doctoral researcher passionate about leveraging data science and deep
 ## Projects
 ![AI](https://img.shields.io/badge/AI-Tutorials-blue) **[MONAI Tutorials for Clinicians](https://github.com/rashwinr/MONAI_tutorials)**
       
-- Designed and delivered MONAI tutorials on image classification tailored for medical professionals.
+- Designed and delivered MONAI tutorials on image classification tailored for medical professionals easy-to-use and quick adoption in healthcare image analysis
      
 ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Explainable AI for Inference time correction in classification**
       
@@ -27,7 +27,7 @@ I'm a post-doctoral researcher passionate about leveraging data science and deep
      
 ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Biopsy Needle Segmentation**
       
--  Implemented deep learning models for accurate biopsy needle segmentation in ultrasound images with a focus on model explainability.
+-  Implemented deep learning models for accurate biopsy needle segmentation in ultrasound images with a focus on model explainability
      
 ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Semantic Segmentation of Brain Tumor using Deep Learning**
       
