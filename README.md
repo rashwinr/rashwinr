@@ -70,6 +70,7 @@ I'm a post-doctoral researcher passionate about leveraging data science and deep
 * **Domains:** Image processing, computer vision, machine learning, deep learning, medical image analysis (CT, Ultrasound, MRI), AI explainability, embedded systems, robotics, data analysis, statistical analysis, data visualization
 
 -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=FJXcZW0AAAAJ">
   <img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" width="128px" height="64px"/>
 </a> 
