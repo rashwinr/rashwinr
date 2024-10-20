@@ -61,7 +61,7 @@ I'm a research scientist passionate about leveraging data science and deep learn
 <a href="https://scholar.google.com/citations?user=FJXcZW0AAAAJ">
   <img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" width="128px" height="64px"/>
 </a> 
-\t
+&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.linkedin.com/in/ashwin-rajkumar/">
   <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" width="64px" height="64px"/>
 </a>
