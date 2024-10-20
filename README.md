@@ -1,4 +1,4 @@
-# Hi, I'm Ashwin Rajkumar 👋
+# Hi there, I'm Ashwin Rajkumar 👋
 
 <!--
 **rashwinr/rashwinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-I'm a research scientist passionate about leveraging data science and deep learning to advance healthcare systems. I hold a Ph.D. in Mechanical Engineering and have a strong background in medical image analysis, AI explainability, and embedded systems. Currently, I'm exploring the applications of AI in digital health and imaging at the Indian Institute of Science (IISc), Bangalore.
-
-## Skills
-* **Programming Languages:** Python
-* **Libraries & Frameworks:** pandas, matplotlib, NumPy, scikit-learn, PyTorch, MONAI
-* **Tools:** Linux, MS Office Suite, MATLAB, SolidWorks, Eagle, DFMA, AutoCAD, Arduino, Propeller, Raspberry Pi
-* **Domains:** Image processing, computer vision, machine learning, deep learning, medical image analysis (CT, Ultrasound, MRI), AI explainability, embedded systems, robotics, data analysis, statistical analysis, data visualization
+I'm a research scientist passionate about leveraging data science and deep learning to advance healthcare systems. I hold a Ph.D. in Mechanical Engineering and currently workin on medical image analysis and AI explainability. Currently, I'm exploring the applications of AI in digital health and imaging at the Medical Image Group, Computational Data Sciences, Indian Institute of Science (IISc), Bangalore.
 
 ## Projects
 * **Semantic Segmentation of Brain Tumor using Deep Learning:** [Link to project repo (if available)] - Developed deep learning models for accurate brain tumor segmentation in medical images.
@@ -53,6 +47,12 @@ I'm a research scientist passionate about leveraging data science and deep learn
 * **E-Team Grant (Stage I & II) Awardee** - VentureWell
 * **BioMedical Engineering Idea Award Winner** - VentureWell
 * **Best PhD Qualifying Performance** - New York University
+
+## Skills
+* **Programming Languages:** Python
+* **Libraries & Frameworks:** pandas, matplotlib, NumPy, scikit-learn, PyTorch, MONAI
+* **Tools:** Linux, MS Office Suite, MATLAB, SolidWorks, Eagle, DFMA, AutoCAD, Arduino, Propeller, Raspberry Pi
+* **Domains:** Image processing, computer vision, machine learning, deep learning, medical image analysis (CT, Ultrasound, MRI), AI explainability, embedded systems, robotics, data analysis, statistical analysis, data visualization
 
 ## Connect with me
 * **LinkedIn:** [linkedin.com/in/ashwin-rajkumar/](linkedin.com/in/ashwin-rajkumar/) 
