@@ -58,5 +58,4 @@ I'm a research scientist passionate about leveraging data science and deep learn
 * **LinkedIn:** [linkedin.com/in/ashwin-rajkumar/](linkedin.com/in/ashwin-rajkumar/) 
 * **(Consider adding links to other relevant platforms like Twitter or a personal website)**
 -->
-<a href="https://scholar.google.com/citations?user=FJXcZW0AAAAJ"
-<img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" width="128px" height="64px"/><\a> \t <a href="https://www.linkedin.com/in/ashwin-rajkumar/" <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" width="64px" height="64px"/> <\a>
+<img src="[https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png](https://scholar.google.com/citations?user=FJXcZW0AAAAJ)" width="128px" height="64px"/> \t <img src="[https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png](https://www.linkedin.com/in/ashwin-rajkumar/)" width="64px" height="64px"/>
