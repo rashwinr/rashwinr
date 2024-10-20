@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a post-doctoral researcher passionate about leveraging data science and deep learning to advance healthcare systems. Currently, I'm exploring the applications of AI in digital health and imaging at the Medical Image Group, [Computational Data Sciences](https://cds.iisc.ac.in/), Indian Institute of Science (IISc), Bangalore. I hold a Ph.D. in [Mechanical Engineering](http://mechatronics.engineering.nyu.edu/) from [New York University](https://engineering.nyu.edu/) (NYU). 
+I'm a post-doctoral researcher passionate about leveraging data science and deep learning to advance healthcare systems. Currently, I'm exploring the applications of AI in digital health and imaging at the [Medical Image Group](https://cds.iisc.ac.in/faculty/yalavarthy/MIG/People.html), [Computational Data Sciences](https://cds.iisc.ac.in/), Indian Institute of Science (IISc), Bangalore. I hold a Ph.D. in [Mechanical Engineering](http://mechatronics.engineering.nyu.edu/) from [New York University](https://engineering.nyu.edu/) (NYU). 
 
 ## Projects
 ![AI](https://img.shields.io/badge/AI-Tutorials-blue) **[MONAI Tutorials for Clinicians](https://github.com/rashwinr/MONAI_tutorials)**
