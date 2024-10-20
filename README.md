@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a post-doctoral researcher passionate about leveraging data science and deep learning to advance healthcare systems. Currently, I'm exploring the applications of AI in digital health and imaging at the Medical Image Group, Computational Data Sciences, Indian Institute of Science (IISc), Bangalore. I hold a Ph.D. in Mechanical Engineering from New York University (NYU). 
-
-## Publications & Patents
-* **Author of 2+ journal publications, 8 conference papers, and contributor to 3 patent applications.** 
+I'm a post-doctoral researcher passionate about leveraging data science and deep learning to advance healthcare systems. Currently, I'm exploring the applications of AI in digital health and imaging at the Medical Image Group, [Computational Data Sciences](https://cds.iisc.ac.in/), Indian Institute of Science (IISc), Bangalore. I hold a Ph.D. in [Mechanical Engineering](http://mechatronics.engineering.nyu.edu/) from [New York University](https://engineering.nyu.edu/) (NYU). 
 
 ## Projects
 
@@ -30,6 +27,8 @@ I'm a post-doctoral researcher passionate about leveraging data science and deep
 * ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Semantic Segmentation of Brain Tumor using Deep Learning**
 *   - Developed deep learning models for accurate brain tumor segmentation in medical images achieved dice score$>=$0.8 in BraTS 2017 dataset
 
+## Publications & Patents
+* **Author of 2+ journal publications, 8 conference papers, and contributor to 3 patent applications.** 
 
 <!--
 * **Technology Translation of Medical Devices:** [Link to publications or presentations (if available)] -  My Ph.D. dissertation focused on the translation of innovative medical devices from research to clinical practice.
