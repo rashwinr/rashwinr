@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 I'm a post-doctoral researcher passionate about leveraging data science and deep learning to advance healthcare systems. Currently, I'm exploring the applications of AI in digital health and imaging at the [Medical Image Group](https://cds.iisc.ac.in/faculty/yalavarthy/MIG/People.html), [Computational Data Sciences](https://cds.iisc.ac.in/), Indian Institute of Science (IISc), Bangalore. I hold a Ph.D. in [Mechanical Engineering](http://mechatronics.engineering.nyu.edu/) from [New York University](https://engineering.nyu.edu/) (NYU). 
 
 ## Projects
-![AI](https://img.shields.io/badge/AI-Tutorials-blue) **[MONAI Tutorials for Clinicians](https://github.com/rashwinr/MONAI_tutorials)**
+![AI](https://img.shields.io/badge/AI-Tutorials-blue) ## **[MONAI Tutorials for Clinicians](https://github.com/rashwinr/MONAI_tutorials)**
       
 - Designed and delivered MONAI tutorials on image classification tailored for medical professionals easy-to-use and quick adoption in healthcare image analysis
      
-![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Explainable AI for Inference time correction in classification**
+![Incoming](https://img.shields.io/badge/Status-Incoming-blue) ## **Explainable AI for Inference time correction in classification**
       
 -  Implemented deep learning models for explainability of AI in classification tasks
      
-![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Biopsy Needle Segmentation**
+![Incoming](https://img.shields.io/badge/Status-Incoming-blue) ## **Biopsy Needle Segmentation**
       
 -  Implemented deep learning models for accurate biopsy needle segmentation in ultrasound images with a focus on model explainability
      
-![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Semantic Segmentation of Brain Tumor using Deep Learning**
+![Incoming](https://img.shields.io/badge/Status-Incoming-blue) ## **Semantic Segmentation of Brain Tumor using Deep Learning**
       
 - Developed deep learning models for accurate brain tumor segmentation in medical images achieved dice score$>=$0.8 in BraTS 2017 dataset
 
