@@ -33,7 +33,7 @@ I'm a post-doctoral researcher passionate about leveraging data science and deep
       
 - Developed deep learning models for accurate brain tumor segmentation in medical images achieved dice score$>=$0.8 in BraTS 2017 dataset
 
-![Incoming](https://img.shields.io/badge/Status-Incoming-blue)
+## More about my Work
 <!--
 ## Publications & Patents
 * **Author of 2+ journal publications, 8 conference papers, and contributor to 3 patent applications.** 
