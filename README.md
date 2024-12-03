@@ -21,7 +21,7 @@ I'm a post-doctoral researcher passionate about leveraging data science and deep
       
 - Designed and delivered MONAI tutorials on image classification tailored for medical professionals easy-to-use and quick adoption in healthcare image analysis
      
-## ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **[Explainable AI for Inference time correction in classification](https://github.com/Joel-Jeffrey/CEbUTAl)**
+## ![Submitted for publication](https://img.shields.io/badge/Status-Incoming-blue) **[Explainable AI for Inference time correction in classification](https://github.com/Joel-Jeffrey/CEbUTAl)**
       
 -  Implemented deep learning models for explainability of AI in classification tasks
      
