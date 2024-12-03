@@ -31,7 +31,7 @@ I'm a post-doctoral researcher passionate about leveraging data science and deep
      
 ## ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Semantic Segmentation of Brain Tumor using Deep Learning**
       
-- Developed deep learning models for accurate brain tumor segmentation in medical images achieved dice score$>=$0.8 in BraTS 2017 dataset
+- Developed deep learning models for accurate brain tumor segmentation in medical images achieved dice score>=0.8 in BraTS 2017 dataset
 
 # More info!
 <!--
