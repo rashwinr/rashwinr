@@ -19,7 +19,8 @@ I'm a post-doctoral researcher passionate about leveraging data science and deep
 # Projects
 ## ![AI](https://img.shields.io/badge/AI-Tutorials-blue) **[Programming Tutorials on MONAI](https://github.com/rashwinr/MONAI_tutorials)**
       
-- Designed and delivered MONAI tutorials on image classification tailored for medical professionals easy-to-use and quick adoption in healthcare image analysis
+- Designed and delivered MONAI tutorials on image classification tailored for medical professionals easy-to-use and quick adoption in healthcare image analysis.
+- This work is being part of course offered by [Aster Health Academy's Artificial Intelligence in Healthcare: Theory to Practice](https://asterhealthacademy.com/courses/artificial-intelligence-in-healthcare-theory-to-practice/)
      
 ## ![Submitted](https://img.shields.io/badge/Status-Submitted_for_publication-blue) **[Explainable AI for Inference time correction in classification](https://github.com/Joel-Jeffrey/CEbUTAl)**
       
