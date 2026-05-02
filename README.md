@@ -24,7 +24,7 @@ Production-grade AI-powered microservices built for healthcare and digital healt
 - Overseeing AI infrastructure for breast cancer screening and triaging.
 
 **Artificial Intelligence Lead** · [Certainti.AI](https://www.certainti.ai/) *(Jan 2025 – Dec 2025)*
-- Led development of AI-driven clinical decision support systems and medical intelligence pipelines.
+- Led development of AI-driven research and development tax credits using document intelligence workflows.
 
 **Visiting Research Fellow** · [Qatar University](https://www.qu.edu.qa/) *(Dec 2024 – Jan 2025)*
 - Data-driven modeling of corrosion inhibition.
