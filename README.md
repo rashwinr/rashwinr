@@ -81,46 +81,36 @@ Production-grade AI-powered microservices built for healthcare and digital healt
 
 ### Journal Articles
 
-| Title | Venue | Year | Citations |
-|---|---|---|:---:|
-| [Wearable inertial sensors for range of motion assessment](https://doi.org/10.1109/JSEN.2019.2957089) | *IEEE Sensors Journal* 20(7), 3777–3787 | 2019 | 49 |
-| [Usability study of wearable inertial sensors for exergames (WISE) for movements assessment and exercise](https://doi.org/10.21037/mhealth.2019.12.04) | *mHealth* 6, 1–15 | 2020 | 26 |
-| [Inference time correction based on confidence and uncertainty for improved deep-learning model performance and explainability in medical image classification](https://doi.org/10.1016/j.compmedimag.2025.102630) | *Computerized Medical Imaging and Graphics*, 102630 | 2025 | 1 |
-| Unsupervised Machine Learning for Automated Corrosion Staging Using Optical Microscopy Images | *NPJ Materials and Degradation* | 2025 | 4 |
-| Unmasking the Hidden Threat: Conductive Under-Deposits and Their Role in Preferential Weldment Corrosion of Carbon Steel under Sour Conditions | *Langmuir* 41(35), 23632–23651 | 2025 | 3 |
-| Integrated Electrochemical and Machine Learning Framework for SiO₂/CaCO₃ Under-deposits Driven Welded X65 Carbon Steel Corrosion Mitigation in Sour Service Conditions | *Petroleum Research* | 2025 | 1 |
-| Interfacial robustness of commercial amine-based inhibitors mitigates under-deposit corrosion of carbon steel in simulated sour conditions | *Emergent Materials* | 2025 | 0 |
-| Remotely Supervised Transcranial Direct Current Stimulation (RS-tDCS) Paired with a Hand Exercise Program to Improve Manual Dexterity in Progressive Multiple Sclerosis | *Archives of Physical Medicine and Rehabilitation* 100(10), e34 | 2019 | 7 |
+- **2025** · [Inference time correction based on confidence and uncertainty for improved deep-learning model performance and explainability in medical image classification](https://doi.org/10.1016/j.compmedimag.2025.102630) — *Computerized Medical Imaging and Graphics*, 102630 · `1 citation`
+- **2025** · Unsupervised Machine Learning for Automated Corrosion Staging Using Optical Microscopy Images — *NPJ Materials and Degradation* · `4 citations`
+- **2025** · Unmasking the Hidden Threat: Conductive Under-Deposits and Their Role in Preferential Weldment Corrosion of Carbon Steel under Sour Conditions — *Langmuir* 41(35), 23632–23651 · `3 citations`
+- **2025** · Integrated Electrochemical and Machine Learning Framework for SiO₂/CaCO₃ Under-deposits Driven Welded X65 Carbon Steel Corrosion Mitigation in Sour Service Conditions — *Petroleum Research* · `1 citation`
+- **2025** · Interfacial robustness of commercial amine-based inhibitors mitigates under-deposit corrosion of carbon steel in simulated sour conditions — *Emergent Materials* · `0 citations`
+- **2020** · [Usability study of wearable inertial sensors for exergames (WISE) for movements assessment and exercise](https://doi.org/10.21037/mhealth.2019.12.04) — *mHealth* 6, 1–15 · `26 citations`
+- **2019** · [Wearable inertial sensors for range of motion assessment](https://doi.org/10.1109/JSEN.2019.2957089) — *IEEE Sensors Journal* 20(7), 3777–3787 · `49 citations`
+- **2019** · Remotely Supervised Transcranial Direct Current Stimulation (RS-tDCS) Paired with a Hand Exercise Program to Improve Manual Dexterity in Progressive Multiple Sclerosis — *Archives of Physical Medicine and Rehabilitation* 100(10), e34 · `7 citations`
 
 ### Conference Papers
 
-| Title | Venue | Year | Citations |
-|---|---|---|:---:|
-| [Wearable Inertial Sensors for Exergames and Rehabilitation](https://doi.org/10.1109/EMBC44109.2020.9176583) | *IEEE EMBC*, 3505–3508 | 2020 | 12 |
-| [A wearable pendant sensor to monitor compliance with range of motion lymphatic health exercise](https://doi.org/10.1109/SMC42975.2020.9283237) | *IEEE SMC*, 1957–1964 | 2020 | 8 |
-| [Grasp Rehabilitator: A Mechatronic Approach](https://doi.org/10.1109/ICORR.2019.8779413) | *IEEE ICORR*, 762–767 | 2019 | 8 |
-| [An augmented reality spatial referencing system for mobile robots](https://doi.org/10.1109/IROS45743.2020.9341718) | *IEEE/RSJ IROS*, 7545–7552 | 2020 | 15 |
-| [Wearable Smart Glasses for Assessment of Eye-Contact Behavior in Children With Autism](https://doi.org/10.1115/DMD2019-3232) | *Design of Medical Devices Conference 2019*, V001T04A003 | 2019 | 13 |
-| Electrical Inhibitor for Tocolysis | *Frontiers in Biomedical Devices* 83549, V001T10A013 | 2020 | 0 |
-| Electrochemical and Machine Learning Analysis Unveils Protective Mechanisms of Commercial Amine-Based Inhibitors for Under-Deposit Corrosion | *ECS Meeting Abstracts* 248, 1105 | 2025 | 2 |
-| Upper extremity telerehabilitation for progressive multiple sclerosis | *Neurology* 94(15_supplement), 1667 | 2020 | 3 |
-| LEVERAGING UNCERTAINTY AND CONFIDENCE FOR ICH DIAGNOSIS | J Jeffrey, A Rajkumar, PK Yalavarthy | 2025 | — |
+- **2025** · LEVERAGING UNCERTAINTY AND CONFIDENCE FOR ICH DIAGNOSIS — J Jeffrey, A Rajkumar, PK Yalavarthy
+- **2025** · Electrochemical and Machine Learning Analysis Unveils Protective Mechanisms of Commercial Amine-Based Inhibitors for Under-Deposit Corrosion — *ECS Meeting Abstracts* 248, 1105 · `2 citations`
+- **2020** · [An augmented reality spatial referencing system for mobile robots](https://doi.org/10.1109/IROS45743.2020.9341718) — *IEEE/RSJ IROS*, 7545–7552 · `15 citations`
+- **2020** · [Wearable Inertial Sensors for Exergames and Rehabilitation](https://doi.org/10.1109/EMBC44109.2020.9176583) — *IEEE EMBC*, 3505–3508 · `12 citations`
+- **2020** · [A wearable pendant sensor to monitor compliance with range of motion lymphatic health exercise](https://doi.org/10.1109/SMC42975.2020.9283237) — *IEEE SMC*, 1957–1964 · `8 citations`
+- **2020** · Upper extremity telerehabilitation for progressive multiple sclerosis — *Neurology* 94(15_supplement), 1667 · `3 citations`
+- **2020** · Electrical Inhibitor for Tocolysis — *Frontiers in Biomedical Devices* 83549, V001T10A013 · `0 citations`
+- **2019** · [Wearable Smart Glasses for Assessment of Eye-Contact Behavior in Children With Autism](https://doi.org/10.1115/DMD2019-3232) — *Design of Medical Devices Conference 2019*, V001T04A003 · `13 citations`
+- **2019** · [Grasp Rehabilitator: A Mechatronic Approach](https://doi.org/10.1109/ICORR.2019.8779413) — *IEEE ICORR*, 762–767 · `8 citations`
 
 ### Patents
 
-| Title | Number | Year | Citations |
-|---|---|---|:---:|
-| Method and system for securing firearms | US Patent 10,488,131 | 2019 | 11 |
-| Electrical inhibition (EI) uterine pacemaker for controlling preterm uterine contractions | US Patent 10,653,883 | 2020 | 9 |
-| Electrical inhibition (EI) uterine pacemaker for controlling uterine contractions | US Patent 11,819,684 | 2023 | 1 |
-| Electrical inhibition (EI) uterine pacemaker — continuation | US Patent App. 18/497,497 | 2024 | 0 |
-| Wearable inertial sensor system and methods | US Patent App. 18/257,609 | 2024 | 0 |
+- **2024** · Wearable inertial sensor system and methods — US Patent App. 18/257,609
+- **2024** · Electrical inhibition (EI) uterine pacemaker — US Patent App. 18/497,497
+- **2019** · Method and system for securing firearms — US Patent 10,488,131 · `11 citations`
 
 ### Thesis
 
-| Title | Institution | Year | Citations |
-|---|---|---|:---:|
-| [Technology Translation of Medical Devices for Rehabilitation and Therapeutics](https://scholar.google.com/citations?user=FJXcZW0AAAAJ) | New York University Tandon School of Engineering | 2020 | 1 |
+- **2020** · [Technology Translation of Medical Devices for Rehabilitation and Therapeutics](https://scholar.google.com/citations?user=FJXcZW0AAAAJ) — New York University Tandon School of Engineering · `1 citation`
 
 ---
 
