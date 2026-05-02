@@ -40,6 +40,10 @@ Production-grade AI-powered microservices built for healthcare and digital healt
 
 **Research Assistant** · [New York University](https://engineering.nyu.edu/) *(Sep 2015 – May 2020)*
 
+**Teaching Assistant** · [New York University](https://engineering.nyu.edu/) *(Sep 2013 – Aug 2015)*
+
+**Assistant Design Engineer** · MECON LIMITED *(Jul 2011 – Aug 2013)*
+
 ---
 
 ## 🎓 Education
