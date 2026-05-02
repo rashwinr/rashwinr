@@ -35,7 +35,8 @@ Production-grade AI-powered microservices built for healthcare and digital healt
 **Postdoctoral Researcher** · [Indian Institute of Science (IISc)](https://iisc.ac.in/) *(Apr 2024 – Apr 2025)*
 - Focus on AI in Digital Health and Imaging at the [Medical Image Group](https://cds.iisc.ac.in/faculty/yalavarthy/MIG/People.html), [Computational Data Sciences](https://cds.iisc.ac.in/).
 
-**Principal Consultant** · [Om Raaj Solar and Wind Power Private Limited](https://omraajsolar.com/) *(Jun 2021 – Aug 2024)*
+**Principal Consultant** · Om Raaj Solar and Wind Power Private Limited *(Jun 2021 – Aug 2024)*
+- Research and Techno-economic feasibility for 16 MW Solar EPC powerplant.
 
 **Research Assistant** · [New York University](https://engineering.nyu.edu/) *(Sep 2015 – May 2020)*
 
