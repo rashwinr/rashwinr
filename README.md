@@ -1,81 +1,141 @@
-# Hi there, I'm Ashwin Raajkumar 👋
+# Hi there, I'm Ashwin RaajKumar 👋
 
-<!--
-**rashwinr/rashwinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI | PhD | NYU | NITT | IISc | Independent Director** · Bengaluru, Karnataka, India
 
-Here are some ideas to get you started:
+I'm a researcher and AI practitioner passionate about leveraging data science and deep learning to advance healthcare systems. Currently, I serve as **Program Manager at TANUH**, overseeing AI infrastructure for breast cancer screening and triaging, and as an **Independent Director at Shanmuga Hospital Salem**, focusing on corporate governance and process automation. I hold a Ph.D. in [Mechanical Engineering](http://mechatronics.engineering.nyu.edu/) from [New York University](https://engineering.nyu.edu/) (NYU), with a dissertation on *Technology Translation of Medical Devices for Rehabilitation and Therapeutics*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a post-doctoral researcher passionate about leveraging data science and deep learning to advance healthcare systems. Currently, I'm exploring the applications of AI in digital health and imaging at the [Medical Image Group](https://cds.iisc.ac.in/faculty/yalavarthy/MIG/People.html), [Computational Data Sciences](https://cds.iisc.ac.in/), Indian Institute of Science (IISc), Bangalore. I hold a Ph.D. in [Mechanical Engineering](http://mechatronics.engineering.nyu.edu/) from [New York University](https://engineering.nyu.edu/) (NYU). 
+---
 
-# Projects
-## ![AI](https://img.shields.io/badge/AI-Tutorials-blue) **[Programming Tutorials on MONAI](https://github.com/rashwinr/MONAI_tutorials)**
-      
-- Designed and delivered MONAI tutorials on image classification tailored for medical professionals easy-to-use and quick adoption in healthcare image analysis.
-- This work is being part of course offered by [Aster Health Academy's Artificial Intelligence in Healthcare: Theory to Practice](https://asterhealthacademy.com/courses/artificial-intelligence-in-healthcare-theory-to-practice/)
-     
-## ![Submitted](https://img.shields.io/badge/Status-Submitted_for_publication-blue) **[Explainable AI for Inference time correction in classification](https://github.com/Joel-Jeffrey/CEbUTAl)**
-      
--  Implemented deep learning models for explainability of AI in classification tasks
-     
-## ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Biopsy Needle Segmentation**
-      
--  Implemented deep learning models for accurate biopsy needle segmentation in ultrasound images with a focus on model explainability
-     
-## ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) **Semantic Segmentation of Brain Tumor using Deep Learning**
-      
-- Developed deep learning models for accurate brain tumor segmentation in medical images achieved dice score>=0.8 in BraTS 2017 dataset
+## 🛰️ Microservices
 
-# More info!
-<!--
-## Publications & Patents
-* **Author of 2+ journal publications, 8 conference papers, and contributor to 3 patent applications.** 
-![Awesome](https://img.shields.io/badge/Awesome-YES-brightgreen) 
+Production-grade AI-powered microservices built for healthcare and digital health applications.
 
+| Service | Description | Link |
+|---|---|---|
+| **PinkshieldAI** | AI-driven breast cancer screening and risk prediction tool | [bc-screener-research.tanuh.ai](https://bc-screener-research.tanuh.ai/) |
+| **Privacy-Filter** | Automated PHI/PII redaction for clinical documents | [privacy-filter.tanuh.org](https://privacy-filter.tanuh.org/) |
+| **NHA-NRCES Converter** | NHCX/ABDM-compliant FHIR bundle generation pipeline | [nhcxhackathon.tanuh.ai](https://nhcxhackathon.tanuh.ai/) |
 
+---
 
-* **Technology Translation of Medical Devices:** [Link to publications or presentations (if available)] -  My Ph.D. dissertation focused on the translation of innovative medical devices from research to clinical practice.
-* **(Add other relevant projects from your CV or personal portfolio)**
-* **(Consider adding links to your Google Scholar profile or specific publications)**
-## Experience
-* **Research Scientist** at Indian Institute of Science (IISc), Bangalore
-* **Post-doctoral Researcher** at Indian Institute of Science (IISc), Bangalore
-* **Principal Consultant** at Om Raaj Solar & Wind Power
-* **Software Consultant** at SC Associates PC, NYC
-* **Teaching/Research Assistant** at New York University
-* **Assistant Design Engineer** at MECON LIMITED, Bangalore
+## 💼 Experience
 
-## Education
-* **Ph.D. in Mechanical Engineering** - New York University (NYU)
-* **M.S. in Mechanical Engineering** - New York University (NYU)
-* **B.Tech. in Mechanical Engineering** - NIT Trichy
+**Program Manager** · TANUH *(Oct 2025 – Present)*
+- Overseeing AI infrastructure for breast cancer screening and triaging.
 
-## Awards & Recognition
-* **Smartgun Design Challenge Winner** - Brooklyn Borough President
-* **E-Team Grant (Stage I & II) Awardee** - VentureWell
-* **BioMedical Engineering Idea Award Winner** - VentureWell
-* **Best PhD Qualifying Performance** - New York University
+**Artificial Intelligence Lead** · Certainti.Ai *(Jan 2025 – Dec 2025)*
 
-## Skills
-* **Programming Languages:** Python
-* **Libraries & Frameworks:** pandas, matplotlib, NumPy, scikit-learn, PyTorch, MONAI
-* **Tools:** Linux, MS Office Suite, MATLAB, SolidWorks, Eagle, DFMA, AutoCAD, Arduino, Propeller, Raspberry Pi
-* **Domains:** Image processing, computer vision, machine learning, deep learning, medical image analysis (CT, Ultrasound, MRI), AI explainability, embedded systems, robotics, data analysis, statistical analysis, data visualization
+**Visiting Research Fellow** · Qatar University *(Dec 2024 – Jan 2025)*
+- Data-driven modeling of corrosion inhibition.
 
--->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Independent Director** · Shanmuga Hospital Salem *(May 2024 – Present)*
+- Chair of Stakeholder Relationship Committee; involved in SME listing and corporate governance.
+
+**Postdoctoral Researcher** · Indian Institute of Science (IISc) *(Apr 2024 – Apr 2025)*
+- Focus on AI in Digital Health and Imaging at the [Medical Image Group](https://cds.iisc.ac.in/faculty/yalavarthy/MIG/People.html), [Computational Data Sciences](https://cds.iisc.ac.in/).
+
+**Principal Consultant** · Om Raaj Solar and Wind Power Private Limited *(Jun 2021 – Aug 2024)*
+
+**Research Assistant** · New York University *(Sep 2015 – May 2020)*
+
+---
+
+## 🎓 Education
+
+**Ph.D. in Mechanical Engineering** · New York University *(2015 – 2020)*
+- Dissertation: *Technology Translation of Medical Devices for Rehabilitation and Therapeutics*
+
+**Advanced Certificate for AI in Digital Health** · Indian Institute of Science (IISc) *(2023 – 2024)*
+- Grade: A · Project: Brain Tumour Segmentation
+
+**M.S. in Mechanical Engineering** · New York University *(2013 – 2015)*
+
+**B.E. in Mechanical Engineering** · NIT Trichy *(2007 – 2011)*
+
+---
+
+## 🔬 Projects
+
+### ![AI](https://img.shields.io/badge/AI-Tutorials-blue) [Programming Tutorials on MONAI](https://github.com/rashwinr/MONAI_tutorials)
+
+- Designed and delivered MONAI tutorials on image classification tailored for medical professionals for easy adoption in healthcare image analysis.
+- Part of the course offered by [Aster Health Academy's Artificial Intelligence in Healthcare: Theory to Practice](https://asterhealthacademy.com/courses/artificial-intelligence-in-healthcare-theory-to-practice/).
+
+### ![Submitted](https://img.shields.io/badge/Status-Submitted_for_publication-blue) [Explainable AI for Inference Time Correction in Classification](https://github.com/Joel-Jeffrey/CEbUTAl)
+
+- Implemented deep learning models for explainability of AI in classification tasks.
+
+### ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) Biopsy Needle Segmentation
+
+- Implemented deep learning models for accurate biopsy needle segmentation in ultrasound images with a focus on model explainability.
+
+### ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) Semantic Segmentation of Brain Tumor using Deep Learning
+
+- Developed deep learning models for accurate brain tumor segmentation in medical images; achieved Dice score ≥ 0.8 on the BraTS 2017 dataset.
+
+---
+
+## 📄 Publications
+
+> Full list on [Google Scholar](https://scholar.google.com/citations?user=FJXcZW0AAAAJ) · Citation counts as of May 2026
+
+### Journal Articles
+
+| Title | Venue | Year | Citations |
+|---|---|---|:---:|
+| [Wearable inertial sensors for range of motion assessment](https://doi.org/10.1109/JSEN.2019.2957089) | *IEEE Sensors Journal* 20(7), 3777–3787 | 2019 | 49 |
+| [Usability study of wearable inertial sensors for exergames (WISE) for movements assessment and exercise](https://doi.org/10.21037/mhealth.2019.12.04) | *mHealth* 6, 1–15 | 2020 | 26 |
+| [Inference time correction based on confidence and uncertainty for improved deep-learning model performance and explainability in medical image classification](https://doi.org/10.1016/j.compmedimag.2025.102630) | *Computerized Medical Imaging and Graphics*, 102630 | 2025 | 1 |
+| Unsupervised Machine Learning for Automated Corrosion Staging Using Optical Microscopy Images | *NPJ Materials and Degradation* | 2025 | 4 |
+| Unmasking the Hidden Threat: Conductive Under-Deposits and Their Role in Preferential Weldment Corrosion of Carbon Steel under Sour Conditions | *Langmuir* 41(35), 23632–23651 | 2025 | 3 |
+| Integrated Electrochemical and Machine Learning Framework for SiO₂/CaCO₃ Under-deposits Driven Welded X65 Carbon Steel Corrosion Mitigation in Sour Service Conditions | *Petroleum Research* | 2025 | 1 |
+| Interfacial robustness of commercial amine-based inhibitors mitigates under-deposit corrosion of carbon steel in simulated sour conditions | *Emergent Materials* | 2025 | 0 |
+| Remotely Supervised Transcranial Direct Current Stimulation (RS-tDCS) Paired with a Hand Exercise Program to Improve Manual Dexterity in Progressive Multiple Sclerosis | *Archives of Physical Medicine and Rehabilitation* 100(10), e34 | 2019 | 7 |
+
+### Conference Papers
+
+| Title | Venue | Year | Citations |
+|---|---|---|:---:|
+| [Wearable Inertial Sensors for Exergames and Rehabilitation](https://doi.org/10.1109/EMBC44109.2020.9176583) | *IEEE EMBC*, 3505–3508 | 2020 | 12 |
+| [A wearable pendant sensor to monitor compliance with range of motion lymphatic health exercise](https://doi.org/10.1109/SMC42975.2020.9283237) | *IEEE SMC*, 1957–1964 | 2020 | 8 |
+| [Grasp Rehabilitator: A Mechatronic Approach](https://doi.org/10.1109/ICORR.2019.8779413) | *IEEE ICORR*, 762–767 | 2019 | 8 |
+| [An augmented reality spatial referencing system for mobile robots](https://doi.org/10.1109/IROS45743.2020.9341718) | *IEEE/RSJ IROS*, 7545–7552 | 2020 | 15 |
+| [Wearable Smart Glasses for Assessment of Eye-Contact Behavior in Children With Autism](https://doi.org/10.1115/DMD2019-3232) | *Design of Medical Devices Conference 2019*, V001T04A003 | 2019 | 13 |
+| Electrical Inhibitor for Tocolysis | *Frontiers in Biomedical Devices* 83549, V001T10A013 | 2020 | 0 |
+| Electrochemical and Machine Learning Analysis Unveils Protective Mechanisms of Commercial Amine-Based Inhibitors for Under-Deposit Corrosion | *ECS Meeting Abstracts* 248, 1105 | 2025 | 2 |
+| Upper extremity telerehabilitation for progressive multiple sclerosis | *Neurology* 94(15_supplement), 1667 | 2020 | 3 |
+| LEVERAGING UNCERTAINTY AND CONFIDENCE FOR ICH DIAGNOSIS | J Jeffrey, A Rajkumar, PK Yalavarthy | 2025 | — |
+
+### Patents
+
+| Title | Number | Year | Citations |
+|---|---|---|:---:|
+| Method and system for securing firearms | US Patent 10,488,131 | 2019 | 11 |
+| Electrical inhibition (EI) uterine pacemaker for controlling preterm uterine contractions | US Patent 10,653,883 | 2020 | 9 |
+| Electrical inhibition (EI) uterine pacemaker for controlling uterine contractions | US Patent 11,819,684 | 2023 | 1 |
+| Electrical inhibition (EI) uterine pacemaker — continuation | US Patent App. 18/497,497 | 2024 | 0 |
+| Wearable inertial sensor system and methods | US Patent App. 18/257,609 | 2024 | 0 |
+
+### Thesis
+
+| Title | Institution | Year | Citations |
+|---|---|---|:---:|
+| [Technology Translation of Medical Devices for Rehabilitation and Therapeutics](https://scholar.google.com/citations?user=FJXcZW0AAAAJ) | New York University Tandon School of Engineering | 2020 | 1 |
+
+---
+
+## 🛠️ Skills
+
+`Deep Learning` `AI` `Healthcare IT` `RAG` `FastAPI` `ChromaDB` `SDLC` `Software Project Management` `Python` `PyTorch` `MONAI` `Medical Image Analysis`
+
+---
+
+## 🔗 Connect
+
 <a href="https://scholar.google.com/citations?user=FJXcZW0AAAAJ">
-  <img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" width="381px" height="64px"/>
-</a> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" width="200px" height="34px"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ashwin-rajkumar/">
-  <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" width="64px" height="64px"/>
+  <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" width="34px" height="34px"/>
 </a>
