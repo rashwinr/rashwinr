@@ -20,23 +20,24 @@ Production-grade AI-powered microservices built for healthcare and digital healt
 
 ## 💼 Experience
 
-**Program Manager** · TANUH *(Oct 2025 – Present)*
+**Program Manager** · [TANUH](https://tanuh.ai/) *(Oct 2025 – Present)*
 - Overseeing AI infrastructure for breast cancer screening and triaging.
 
-**Artificial Intelligence Lead** · Certainti.Ai *(Jan 2025 – Dec 2025)*
+**Artificial Intelligence Lead** · [Certainti.AI](https://www.certainti.ai/) *(Jan 2025 – Dec 2025)*
+- Led development of AI-driven clinical decision support systems and medical intelligence pipelines.
 
-**Visiting Research Fellow** · Qatar University *(Dec 2024 – Jan 2025)*
+**Visiting Research Fellow** · [Qatar University](https://www.qu.edu.qa/) *(Dec 2024 – Jan 2025)*
 - Data-driven modeling of corrosion inhibition.
 
-**Independent Director** · Shanmuga Hospital Salem *(May 2024 – Present)*
+**Independent Director** · [Shanmuga Hospital Salem](https://shanmugahospital.com/) *(May 2024 – Present)*
 - Chair of Stakeholder Relationship Committee; involved in SME listing and corporate governance.
 
-**Postdoctoral Researcher** · Indian Institute of Science (IISc) *(Apr 2024 – Apr 2025)*
+**Postdoctoral Researcher** · [Indian Institute of Science (IISc)](https://iisc.ac.in/) *(Apr 2024 – Apr 2025)*
 - Focus on AI in Digital Health and Imaging at the [Medical Image Group](https://cds.iisc.ac.in/faculty/yalavarthy/MIG/People.html), [Computational Data Sciences](https://cds.iisc.ac.in/).
 
-**Principal Consultant** · Om Raaj Solar and Wind Power Private Limited *(Jun 2021 – Aug 2024)*
+**Principal Consultant** · [Om Raaj Solar and Wind Power Private Limited](https://omraajsolar.com/) *(Jun 2021 – Aug 2024)*
 
-**Research Assistant** · New York University *(Sep 2015 – May 2020)*
+**Research Assistant** · [New York University](https://engineering.nyu.edu/) *(Sep 2015 – May 2020)*
 
 ---
 
