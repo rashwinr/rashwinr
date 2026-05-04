@@ -13,7 +13,7 @@ Production-grade AI-powered microservices built for healthcare and digital healt
 | Service | Description | Link |
 |---|---|---|
 | **PinkshieldAI** | AI-driven breast cancer screening and risk prediction tool | [bc-screener-research.tanuh.ai](https://bc-screener-research.tanuh.ai/) |
-| **Privacy-Filter** | Automated PHI/PII redaction for clinical documents | [privacy-filter.tanuh.org](https://privacy-filter.tanuh.org/) |
+| **Privacy-Filter** | Automated PHI/PII redaction for clinical documents | [privacy-filter.tanuh.org](https://privacy-filter-147901050545.asia-south1.run.app/) |
 | **NHA-NRCES Converter** | NHCX/ABDM-compliant FHIR bundle generation pipeline | [nhcxhackathon.tanuh.ai](https://nhcxhackathon.tanuh.ai/) |
 
 ---
