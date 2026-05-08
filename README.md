@@ -6,18 +6,6 @@ I'm a researcher and AI practitioner passionate about leveraging data science an
 
 ---
 
-## 🛰️ Microservices
-
-Production-grade AI-powered microservices built for healthcare and digital health applications.
-
-| Service | Description | Link |
-|---|---|---|
-| **PinkshieldAI** | AI-driven breast cancer screening and risk prediction tool | [bc-screener-research.tanuh.ai](https://bc-screener-research.tanuh.ai/) |
-| **Privacy-Filter** | Automated PHI/PII redaction for clinical documents | [privacy-filter.tanuh.org](https://privacy-filter-147901050545.asia-south1.run.app/) |
-| **NHA-NRCES Converter** | NHCX/ABDM-compliant FHIR bundle generation pipeline | [nhcxhackathon.tanuh.ai](https://nhcxhackathon.tanuh.ai/) |
-
----
-
 ## 💼 Experience
 
 **Program Manager** · [TANUH](https://tanuh.ai/) *(Oct 2025 – Present)*
