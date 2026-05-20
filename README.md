@@ -113,4 +113,5 @@ I'm a researcher and AI practitioner passionate about leveraging data science an
 
 ## 🔗 Connect
 
-[ ](https://scholar.google.com/citations?user=FJXcZW0AAAAJ)&nbsp;&nbsp;&nbsp;&nbsp;[](https://www.linkedin.com/in/ashwin-rajkumar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin%20RaajKumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-rajkumar/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Ashwin%20RaajKumar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=FJXcZW0AAAAJ&hl=en)
