@@ -82,7 +82,6 @@ I'm a researcher and AI practitioner passionate about leveraging data science an
 
 ### Conference Papers
 
-- **2025** · LEVERAGING UNCERTAINTY AND CONFIDENCE FOR ICH DIAGNOSIS — J Jeffrey, A Rajkumar, PK Yalavarthy
 - **2025** · Electrochemical and Machine Learning Analysis Unveils Protective Mechanisms of Commercial Amine-Based Inhibitors for Under-Deposit Corrosion — *ECS Meeting Abstracts* 248, 1105
 - **2020** · [An augmented reality spatial referencing system for mobile robots](https://doi.org/10.1109/IROS45743.2020.9341718) — *IEEE/RSJ IROS*, 7545–7552
 - **2020** · [Wearable Inertial Sensors for Exergames and Rehabilitation](https://doi.org/10.1109/EMBC44109.2020.9176583) — *IEEE EMBC*, 3505–3508
