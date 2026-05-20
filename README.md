@@ -1,6 +1,6 @@
 # Hi there, I'm Ashwin RaajKumar 👋
 
-**AI | PhD | NYU | NITT | IISc | Independent Director** · Bengaluru, Karnataka, India
+**AI | PhD | NYU | NITT | IISc ** · Bengaluru, Karnataka, India
 
 I'm a researcher and AI practitioner passionate about leveraging data science and deep learning to advance healthcare systems. Currently, I serve as **Program Manager at TANUH**, overseeing AI infrastructure for breast cancer screening and triaging, and as an **Independent Director at Shanmuga Hospital Salem**, focusing on corporate governance and process automation. I hold a Ph.D. in [Mechanical Engineering](http://mechatronics.engineering.nyu.edu/) from [New York University](https://engineering.nyu.edu/) (NYU), with a dissertation on *Technology Translation of Medical Devices for Rehabilitation and Therapeutics*.
 
