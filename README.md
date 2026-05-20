@@ -51,75 +51,66 @@ I'm a researcher and AI practitioner passionate about leveraging data science an
 ## 🔬 Projects
 
 ### ![AI](https://img.shields.io/badge/AI-Tutorials-blue) [Programming Tutorials on MONAI](https://github.com/rashwinr/MONAI_tutorials)
-
 - Designed and delivered MONAI tutorials on image classification tailored for medical professionals for easy adoption in healthcare image analysis.
 - Part of the course offered by [Aster Health Academy's Artificial Intelligence in Healthcare: Theory to Practice](https://asterhealthacademy.com/courses/artificial-intelligence-in-healthcare-theory-to-practice/).
 
 ### ![Submitted](https://img.shields.io/badge/Status-Submitted_for_publication-blue) [Explainable AI for Inference Time Correction in Classification](https://github.com/Joel-Jeffrey/CEbUTAl)
-
 - Implemented deep learning models for explainability of AI in classification tasks.
 
 ### ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) Biopsy Needle Segmentation
-
 - Implemented deep learning models for accurate biopsy needle segmentation in ultrasound images with a focus on model explainability.
 
 ### ![Incoming](https://img.shields.io/badge/Status-Incoming-blue) Semantic Segmentation of Brain Tumor using Deep Learning
-
 - Developed deep learning models for accurate brain tumor segmentation in medical images; achieved Dice score ≥ 0.8 on the BraTS 2017 dataset.
 
 ---
 
 ## 📄 Publications
 
-> Full list on [Google Scholar](https://scholar.google.com/citations?user=FJXcZW0AAAAJ) · Citation counts as of May 2026
+> Full list on [Google Scholar](https://scholar.google.com/citations?user=FJXcZW0AAAAJ)
 
 ### Journal Articles
 
-- **2025** · [Inference time correction based on confidence and uncertainty for improved deep-learning model performance and explainability in medical image classification](https://doi.org/10.1016/j.compmedimag.2025.102630) — *Computerized Medical Imaging and Graphics*, 102630 · `1 citation`
-- **2025** · Unsupervised Machine Learning for Automated Corrosion Staging Using Optical Microscopy Images — *NPJ Materials and Degradation* · `4 citations`
-- **2025** · Unmasking the Hidden Threat: Conductive Under-Deposits and Their Role in Preferential Weldment Corrosion of Carbon Steel under Sour Conditions — *Langmuir* 41(35), 23632–23651 · `3 citations`
-- **2025** · Integrated Electrochemical and Machine Learning Framework for SiO₂/CaCO₃ Under-deposits Driven Welded X65 Carbon Steel Corrosion Mitigation in Sour Service Conditions — *Petroleum Research* · `1 citation`
-- **2025** · Interfacial robustness of commercial amine-based inhibitors mitigates under-deposit corrosion of carbon steel in simulated sour conditions — *Emergent Materials* · `0 citations`
-- **2020** · [Usability study of wearable inertial sensors for exergames (WISE) for movements assessment and exercise](https://doi.org/10.21037/mhealth.2019.12.04) — *mHealth* 6, 1–15 · `26 citations`
-- **2019** · [Wearable inertial sensors for range of motion assessment](https://doi.org/10.1109/JSEN.2019.2957089) — *IEEE Sensors Journal* 20(7), 3777–3787 · `49 citations`
-- **2019** · Remotely Supervised Transcranial Direct Current Stimulation (RS-tDCS) Paired with a Hand Exercise Program to Improve Manual Dexterity in Progressive Multiple Sclerosis — *Archives of Physical Medicine and Rehabilitation* 100(10), e34 · `7 citations`
+- **2025** · [Inference time correction based on confidence and uncertainty for improved deep-learning model performance and explainability in medical image classification](https://doi.org/10.1016/j.compmedimag.2025.102630) — *Computerized Medical Imaging and Graphics*, 102630
+- **2025** · Unsupervised Machine Learning for Automated Corrosion Staging Using Optical Microscopy Images — *NPJ Materials and Degradation*
+- **2025** · Unmasking the Hidden Threat: Conductive Under-Deposits and Their Role in Preferential Weldment Corrosion of Carbon Steel under Sour Conditions — *Langmuir* 41(35), 23632–23651
+- **2025** · Integrated Electrochemical and Machine Learning Framework for SiO₂/CaCO₃ Under-deposits Driven Welded X65 Carbon Steel Corrosion Mitigation in Sour Service Conditions — *Petroleum Research*
+- **2025** · Interfacial robustness of commercial amine-based inhibitors mitigates under-deposit corrosion of carbon steel in simulated sour conditions — *Emergent Materials*
+- **2020** · [Usability study of wearable inertial sensors for exergames (WISE) for movements assessment and exercise](https://doi.org/10.21037/mhealth.2019.12.04) — *mHealth* 6, 1–15
+- **2019** · [Wearable inertial sensors for range of motion assessment](https://doi.org/10.1109/JSEN.2019.2957089) — *IEEE Sensors Journal* 20(7), 3777–3787
+- **2019** · Remotely Supervised Transcranial Direct Current Stimulation (RS-tDCS) Paired with a Hand Exercise Program to Improve Manual Dexterity in Progressive Multiple Sclerosis — *Archives of Physical Medicine and Rehabilitation* 100(10), e34
 
 ### Conference Papers
 
 - **2025** · LEVERAGING UNCERTAINTY AND CONFIDENCE FOR ICH DIAGNOSIS — J Jeffrey, A Rajkumar, PK Yalavarthy
-- **2025** · Electrochemical and Machine Learning Analysis Unveils Protective Mechanisms of Commercial Amine-Based Inhibitors for Under-Deposit Corrosion — *ECS Meeting Abstracts* 248, 1105 · `2 citations`
-- **2020** · [An augmented reality spatial referencing system for mobile robots](https://doi.org/10.1109/IROS45743.2020.9341718) — *IEEE/RSJ IROS*, 7545–7552 · `15 citations`
-- **2020** · [Wearable Inertial Sensors for Exergames and Rehabilitation](https://doi.org/10.1109/EMBC44109.2020.9176583) — *IEEE EMBC*, 3505–3508 · `12 citations`
-- **2020** · [A wearable pendant sensor to monitor compliance with range of motion lymphatic health exercise](https://doi.org/10.1109/SMC42975.2020.9283237) — *IEEE SMC*, 1957–1964 · `8 citations`
-- **2020** · Upper extremity telerehabilitation for progressive multiple sclerosis — *Neurology* 94(15_supplement), 1667 · `3 citations`
-- **2020** · Electrical Inhibitor for Tocolysis — *Frontiers in Biomedical Devices* 83549, V001T10A013 · `0 citations`
-- **2019** · [Wearable Smart Glasses for Assessment of Eye-Contact Behavior in Children With Autism](https://doi.org/10.1115/DMD2019-3232) — *Design of Medical Devices Conference 2019*, V001T04A003 · `13 citations`
-- **2019** · [Grasp Rehabilitator: A Mechatronic Approach](https://doi.org/10.1109/ICORR.2019.8779413) — *IEEE ICORR*, 762–767 · `8 citations`
+- **2025** · Electrochemical and Machine Learning Analysis Unveils Protective Mechanisms of Commercial Amine-Based Inhibitors for Under-Deposit Corrosion — *ECS Meeting Abstracts* 248, 1105
+- **2020** · [An augmented reality spatial referencing system for mobile robots](https://doi.org/10.1109/IROS45743.2020.9341718) — *IEEE/RSJ IROS*, 7545–7552
+- **2020** · [Wearable Inertial Sensors for Exergames and Rehabilitation](https://doi.org/10.1109/EMBC44109.2020.9176583) — *IEEE EMBC*, 3505–3508
+- **2020** · [A wearable pendant sensor to monitor compliance with range of motion lymphatic health exercise](https://doi.org/10.1109/SMC42975.2020.9283237) — *IEEE SMC*, 1957–1964
+- **2020** · Upper extremity telerehabilitation for progressive multiple sclerosis — *Neurology* 94(15_supplement), 1667
+- **2020** · Electrical Inhibitor for Tocolysis — *Frontiers in Biomedical Devices* 83549, V001T10A013
+- **2019** · [Wearable Smart Glasses for Assessment of Eye-Contact Behavior in Children With Autism](https://doi.org/10.1115/DMD2019-3232) — *Design of Medical Devices Conference 2019*, V001T04A003
+- **2019** · [Grasp Rehabilitator: A Mechatronic Approach](https://doi.org/10.1109/ICORR.2019.8779413) — *IEEE ICORR*, 762–767
 
 ### Patents
 
 - **2024** · Wearable inertial sensor system and methods — US Patent App. 18/257,609
 - **2024** · Electrical inhibition (EI) uterine pacemaker — US Patent App. 18/497,497
-- **2019** · Method and system for securing firearms — US Patent 10,488,131 · `11 citations`
+- **2019** · Method and system for securing firearms — US Patent 10,488,131
 
 ### Thesis
 
-- **2020** · [Technology Translation of Medical Devices for Rehabilitation and Therapeutics](https://scholar.google.com/citations?user=FJXcZW0AAAAJ) — New York University Tandon School of Engineering · `1 citation`
+- **2020** · [Technology Translation of Medical Devices for Rehabilitation and Therapeutics](https://scholar.google.com/citations?user=FJXcZW0AAAAJ) — New York University Tandon School of Engineering
 
 ---
 
 ## 🛠️ Skills
 
 `Deep Learning` `AI` `Healthcare IT` `RAG` `FastAPI` `ChromaDB` `SDLC` `Software Project Management` `Python` `PyTorch` `MONAI` `Medical Image Analysis`
+`LangChain` `LangGraph` `Vertex AI` `Google Cloud Storage` `Docker` `Celery` `Redis` `ONNX` `OpenCV` `NumPy` `Pandas` `Transformers (HuggingFace)` `FHIR` `NHCX/ABDM` `pytest` `Jupyter Notebook` `MATLAB` `JavaScript` `HTML/CSS`
 
 ---
 
 ## 🔗 Connect
 
-<a href="https://scholar.google.com/citations?user=FJXcZW0AAAAJ">
-  <img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" width="200px" height="34px"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ashwin-rajkumar/">
-  <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" width="34px" height="34px"/>
-</a>
+[ ](https://scholar.google.com/citations?user=FJXcZW0AAAAJ)&nbsp;&nbsp;&nbsp;&nbsp;[](https://www.linkedin.com/in/ashwin-rajkumar/)
